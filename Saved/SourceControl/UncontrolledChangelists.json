@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Unreal 5/Projects/WarehouseWreckage/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"E:/Unreal 5/Projects/WarehouseWreckage/Content/MyMaps/Advanced_Lighting1.umap",
+				"E:/Unreal 5/Projects/WarehouseWreckage/Content/MyMaps/Advanced_Lighting_BuiltData1.uasset",
+				"E:/Unreal 5/Projects/WarehouseWreckage/Content/MyMaps/Minimal_Default1.umap",
+				"E:/Unreal 5/Projects/WarehouseWreckage/Content/MyMaps/Minimal_Default_BuiltData1.uasset",
+				"E:/Unreal 5/Projects/WarehouseWreckage/Content/MyMaps/StarterMap1.umap",
+				"E:/Unreal 5/Projects/WarehouseWreckage/Content/MyMaps/StarterMap_BuiltData1.uasset",
+				"E:/Unreal 5/Projects/WarehouseWreckage/Content/MyMaps/BP_Projectile.uasset"
+			]
+		}
+	]
+}
